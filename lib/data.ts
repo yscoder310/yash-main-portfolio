@@ -35,28 +35,28 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "SUSCET",
+    location: "Mohali, Punjab",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "I graduated  as Electronics and Communiation after completion upon acadamics",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2020",
   },
   {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
+    title: "Front-end development Internship at Complere Infosystems",
+    location: "Mohali, Panjab",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "I started my front-end developement intership program of 6 months at Complere Infosystem, for 6 months  working as front-end developer I upskilled myself and learn all the tools and technologies",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "May 2022 - Nov 2022",
   },
   {
     title: "Full-Stack Developer",
-    location: "Houston, TX",
+    location: "Mohali, Panjab",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "I'm now a full-stack developer working as a freelancer and full time at Complere Infosystem. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "2021 - present",
+    date: "Nov 2022 - present",
   },
 ] as const;
 
@@ -97,11 +97,8 @@ export const skillsData = [
   "Prisma",
   "MongoDB",
   "Redux",
-  "GraphQL",
-  "Apollo",
+  "Docker",
   "Express",
   "PostgreSQL",
-  "Python",
-  "Django",
   "Framer Motion",
 ] as const;
